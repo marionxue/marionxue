@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical)
