@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-默认(radical)|隐藏contribs,prs()
-- | -
-![默认](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical) |![隐藏contribs](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=gruvbox&hide=contribs&count_private=true)
+# hi. friends
+
+<img align='right' src='./github_wall.gif' width='200'>
+
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical)
