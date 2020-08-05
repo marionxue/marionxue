@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical)
-![Marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical&hide=contribs,prs)
+默认(radical)|隐藏contribs,prs()
+- | -
+![默认](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical) |![隐藏contribs](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=gruvbox&hide=contribs&count_private=true)
