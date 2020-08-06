@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # hi. friends
-<div style="text-align: center; width: 300px;">
+<div style="text-align: center; width: 500px; height: 300px;">
     <img alt="" src="https://raw.githubusercontent.com/marionxue/marionxue/master/img/github-overview-logo.gif" style="margin: 0 auto;" />
 </div>
 
