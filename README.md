@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 # hi. friends
 
-<img align='right' src='https://raw.githubusercontent.com/marionxue/marionxue/master/img/github_wall.gif' width='200'>
+[//]: # (<img align='right' src='https://raw.githubusercontent.com/marionxue/marionxue/master/img/github_wall.gif' width='200'>)
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical)
+[//]: # ()
+[//]: # (![marionxue's github stats]&#40;https://github-readme-stats.vercel.app/api?username=marionxue&show_icons=true&theme=radical&#41;)
+
+<a href="https://app.daily.dev/Marionxue"><img src="https://api.daily.dev/devcards/82176fe4df38434d9cd27882d69e9e54.png?r=48q" width="400" alt="Marionxue's Dev Card"/></a>
