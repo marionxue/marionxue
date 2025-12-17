@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # hi. friends
-- 欢迎关注微信公众号: 云原生生态圈
-- 个人博客网站: [https://devopsman.cn](https://devopsman.cn)
+
 
 [//]: # (<img align='right' src='https://raw.githubusercontent.com/marionxue/marionxue/master/img/github_wall.gif' width='200'>)
 
